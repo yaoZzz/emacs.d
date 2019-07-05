@@ -1,0 +1,128 @@
+ls
+ls
+ls
+ls
+ls
+rm init.el~
+ls
+ls
+ls
+ls
+mkdir lisp
+ls
+ls
+cd lisp/
+ls
+cp /home/yaoz/.emacs.d/lisp/init-ivy.el ./
+cp /home/yaoz/.emacs.d/lisp/init-cc-mode.el  ./
+cp /home/yaoz/.emacs.d/lisp/init-ctags.el   ./
+cp /home/yaoz/.emacs.d/lisp/init-ibuffer.el   ./
+ls
+ls
+ls
+less init-ctags.el
+ls
+less init-ivy.el
+ls
+ls
+ls
+cd ..
+ls
+cd ..
+ls
+ls
+ls
+ls
+mv .emacs .emacs_
+ls
+ls
+emacs
+ls
+ls
+ls
+ls
+less init.el 
+ls
+ls
+cd lisp/
+ls
+ls
+rm -rf *
+ls
+ls
+ls
+ls
+ls
+ls
+s
+cp /home/yaoz/.emacs.d/lisp/init-elpa.el ./
+cp /home/yaoz/.emacs.d/lisp/init-site-lisp.el  ./
+cp /home/yaoz/.emacs.d/lisp/init-ivy.el   ./
+ls
+less init-ivy.el
+ls
+ls
+less init-elpa.el
+ls
+ls
+less init-site-lisp.el
+ls
+cd ..
+ls
+ls
+mkdir site-lisp
+ls
+ls
+ls
+ls
+less init.el 
+ls
+ls
+ls
+ls
+ls
+ls
+cd elpa/
+ls
+ls
+cd gnupg/
+ls
+cd ..
+ls
+ls
+cd ..
+ls
+cd elpa-26.1/
+ls
+ls
+cd ..
+ls
+ls
+ls
+ls
+ls
+ls
+cp /home/yaoz/.emacs.d/lisp/init-python.el .
+ls
+ls
+ls
+emacs init-
+emacs init-elpa.el 
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
+ls
